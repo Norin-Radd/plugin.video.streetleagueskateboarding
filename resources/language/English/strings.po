@@ -1,7 +1,7 @@
 # Kodi Media Center language file
 # Addon Name: Street League Skateboarding
 # Addon id: plugin.video.streetleagueskateboarding
-# Addon Provider: enen92
+# Addon Provider: Norin
 msgid ""
 msgstr ""
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
