@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.streetleagueskateboarding" name="Street League Skateboarding" version="1.0.0" provider-name="Norin">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <language>en</language>
+    <summary lang="en">Street League Skateboarding championship videos</summary>
+    <summary lang="pt">Vídeos dos Campeonatos da Street League Skateboarding</summary>
+    
+    
+    <description lang="en">Street League Skateboarding championship videos and live events</description>
+    <description lang="pt">Vídeos e eventos ao vivo dos campeonatos da Street League Skateboarding</description>
+    
+    <disclaimer lang="en">The author is not affiliated either with the Street League Skateboarding nor the XBMC Foundation</disclaimer>
+    <disclaimer lang="pt">O autor do plugin não tem qualquer relação com a Street League Skateboarding nem com a XBMC Foundation</disclaimer>
+    
+    <source></source>
+    <website>http://streetleague.com/</website>
+    <platform>all</platform>
+  </extension>
+</addon>
